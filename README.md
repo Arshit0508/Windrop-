@@ -92,6 +92,4 @@ This project is open source. See [LICENSE](LICENSE) for details.
 
 ---
 
-## Acknowledgements
 
-Originally inspired by [thedevsumit/WinDrop](https://github.com/thedevsumit/WinDrop).
